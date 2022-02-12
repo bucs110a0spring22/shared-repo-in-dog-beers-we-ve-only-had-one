@@ -9,6 +9,7 @@ my_list.append(x)
 my_list.append(z)
 my_list.append(y)
 my_list.append(w)
+print(my_list)
 for i in my_list:
   print(i)
 
